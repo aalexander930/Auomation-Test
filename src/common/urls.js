@@ -1,0 +1,12 @@
+module.exports.LOGIN_PAGE = 'https://www.saucedemo.com/index.html';
+module.exports.PRODUCT_PAGE = 'https://www.saucedemo.com/inventory.html';
+module.exports.BACKPACK_PAGE = 'https://www.saucedemo.com/inventory-item.html?id=4';
+module.exports.BIKE_LIGHT_PAGE = 'https://www.saucedemo.com/inventory-item.html?id=0';
+module.exports.BOLT_SHIRT_PAGE = 'https://www.saucedemo.com/inventory-item.html?id=1';
+module.exports.FLEECE_JACKET_PAGE = 'https://www.saucedemo.com/inventory-item.html?id=1';
+module.exports.ONESIE_PAGE = 'https://www.saucedemo.com/inventory-item.html?id=2';
+module.exports.RED_SHIRT_PAGE = 'https://www.saucedemo.com/inventory-item.html?id=3';
+module.exports.CART_PAGE = 'https://www.saucedemo.com/cart.html';
+module.exports.CHECKOUT_INFO_PAGE = 'https://www.saucedemo.com/checkout-step-one.html';
+module.exports.CHECKOUT_SUMMARY_PAGE = 'https://www.saucedemo.com/checkout-step-two.html';
+module.exports.THANK_YOU_PAGE = 'https://www.saucedemo.com/checkout-complete.html';
